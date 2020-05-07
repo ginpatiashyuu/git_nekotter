@@ -43,12 +43,14 @@ header{
  border-bottom: 2px solid #bbb;
 }
 
+h1{
+ height: 46px;
+ line-height: 46px;
+ font-size: 18px;
+ text-align: center;
+}
 
-/*header{*/
-/*  height: 46px;*/
-/*  background-color: white;*/
-/*  border-bottom: 2px solid #bbb;*/
-/*}*/
+
 
 /*h1{*/
 /*  height: 46px;*/
